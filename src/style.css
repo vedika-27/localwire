@@ -1,0 +1,13 @@
+.box,.box2{
+/*height: 250px;*/
+border: 1px solid gray;
+}
+.box2{
+    border: 1px solid gray;
+}
+.right{
+    border: 1px solid gray;
+    height: 250px;
+    margin: 20px;
+    padding: 25px;
+}
